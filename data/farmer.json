@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "s",
+      "username": "s",
+      "password": "sss",
+      "confirmpassword": "ssss",
+      "id": 1
+    },
+    {
+      "email": "s",
+      "username": "shashi",
+      "password": "123345",
+      "confirmpassword": "122344",
+      "id": 2
+    },
+    {
+      "email": "s",
+      "username": "shashi",
+      "password": "shashi",
+      "confirmpassword": "asaskhdsd",
+      "id": 3
+    },
+    {
+      "email": "Selvishashi117@gmail.com",
+      "username": "shashi",
+      "password": "123345",
+      "confirmpassword": "122335",
+      "id": 4
+    }
+  ]
+}

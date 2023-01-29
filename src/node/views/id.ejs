@@ -1,0 +1,17 @@
+<HTML>
+    <HEAD> B.TECH  </HEAD>
+    <link rel="stylesheet" type="text/css" href="/styles/home.css"/>
+  
+ <BODY>
+<%- include('nav.ejs') %>
+ ctis
+ <center><h1 style="color: aqua;">hello <%= id %></h1></center>
+ <center><p>your username is <%= item.username %></p></center>
+ <center><p>followers  <%= item.followers %></p></center>
+ <center><ul>
+    <% item.mutual.forEach(function(data){ %>
+       <li><%= data %></li>
+    <% }); %>
+ </ul></center>
+ </BODY>
+ </HTML>
